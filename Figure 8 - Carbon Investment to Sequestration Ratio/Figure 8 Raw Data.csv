@@ -1,0 +1,15 @@
+#,name,pulp density,dunite,strain,time,avg K,std K,conc,conc std
+1,"1 Day, 1% Pulp Density",1%,DUN-1,wt,1 day,524.8170342,12.67423038,308.5941,7.387181169
+2,"5 Day, 1% Pulp Density",1%,DUN-1,wt,5 day,262.2513358,7.290426771,617.6418333,17.36022594
+3,"10 Day, 1% Pulp Density",1%,DUN-1,wt,10 day,212.2013343,4.471001188,763.1504,16.27395218
+4,"1 Day, 5% Pulp Density",5%,DUN-1,wt,1 day,151.0934568,4.327337068,1072.063,30.74311672
+5,"5 Day, 5% Pulp Density",5%,DUN-1,wt,5 day,79.91385081,1.078429175,2026.089267,27.21979051
+6,"10 Day, 5% Pulp Density",5%,DUN-1,wt,10 day,65.02349744,2.04287125,2491.4156,78.96498623
+7,"1 Day, 10% Pulp Density",10%,DUN-1,wt,1 day,99.80579222,8.701411253,1630.598067,146.6664912
+8,"5 Day, 10% Pulp Density",10%,DUN-1,wt,5 day,59.82580952,2.240574057,2708.5734,100.1478748
+9,"10 Day, 10% Pulp Density",10%,DUN-1,wt,10 day,56.90965226,1.054333821,2845.383433,52.29356518
+10,"3% DUN-3, 5d leaching, direct, GO WT, 30C, no mixing, 13.33% glucose",3%,DUN-3,wt,,34.42314079,0.717818179
+11,"50% DUN-2, 20d leaching, direct, GO ∆pstS, P112:mgdh, 30C, no mixing, 20% glucose",50%,DUN-2,double,,13.69312288,3.099545635
+12,"60% DUN-3 fines (increased surface area for process optimization), 19d leaching, direct 1 feed, GO ∆pstS, P112:mgdh, 30C, no mixing, 20% glucose",60%,DUN-3 fine particles,double,,1.00
+13,"60% DUN-3 fines  (increased surface area for process optimization), 19d leaching, direct recycle (30% then filtered and reused leachate / biolixiviant on 30% more), GO ∆pstS, P112:mgdh, 30C, no mixing, 20% glucose",60%,DUN-3 fine particles,double,,0.96
+14,"60% DUN-3 fines  (increased surface area for process optimization), 19d leaching, direct recycle (30% then filtered and reused leachate / biolixiviant on 30% more), GO ∆pstS, P112:mgdh, 30C, no mixing, 20% glucose",60%,DUN-3 fine particles,double,,1.00
